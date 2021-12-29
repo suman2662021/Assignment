@@ -1,0 +1,125 @@
+.search-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 32px;
+    position: absolute;
+    width: 1150px;
+    height: 80px;
+    left: calc(50% - 1206px/2 + 117px);
+    top: 0px;
+    background: #FFFFFF;
+}
+
+.div2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;   
+    position: static;
+    width: 408px;
+    height: 40px;   
+    left: 8px;
+    top: 20px;
+}
+
+.inputbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    padding: 8px 125px 8px 20px;
+    position: static;
+    width: 100px;
+    margin-left: 40px;
+    top: 0px;
+    bottom: 0px;
+    background: #F7F6F4;
+    border-radius: 10px;
+}
+
+.inputbox input{
+    border: none;
+    border-color: transparent;
+    outline: none;
+    background: #F7F6F4;
+}
+
+.svg{
+    margin-top: 2px;
+    margin-right: 5px;
+}
+
+.buttonr{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 12px;
+    position: static;
+    margin-left: 50px;
+    right: 73.04%;
+    top: 0%;
+    bottom: 0%;
+    background: #3672E9;
+    border-radius: 4px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    outline: none;
+    margin-right: 1px;
+}
+
+.div1{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 2px;
+    position: static;
+    width: 182px;
+    height: 50px;
+    right: 8px;
+    top: calc(50% - 50px/2);
+}
+
+.bell{
+    position: static;
+    margin-top: 13px;
+    margin-right: 8px;
+    margin-left: -20px;
+}
+
+.text1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.number{
+    position: static;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.name{
+    position: static;
+    font-family: Poppins;
+    font-style: normal; 
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 21px;
+    color: #2C3E50;
+}
+
+.avatar{
+    margin-right: 8px;
+}

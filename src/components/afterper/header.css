@@ -1,0 +1,103 @@
+.heading-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    position: absolute; 
+    width: 1050px;
+    height: 88px;
+    left: 276px;
+    top: 152px;
+}
+
+.hello{
+    position: static;
+    width: 800px;
+    height: 88px;
+    margin-left: -1px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.helloname{
+    position: absolute;
+    width: 157px;
+    height: 18px;
+    left: 20px;
+    top: 54px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: #5A5A5A;
+}
+
+.helloname1{
+    position: absolute;
+    width: 98px;
+    height: 24px;
+    left: 20px;
+    top: 22px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0C0B0B;
+}
+
+.black{
+    display: flex;
+    flex-direction: column;
+    position: static;
+    width: 254px;
+    height: 88px;
+    left: 856px;
+    top: 12.17px;
+    background: #414141;
+    box-shadow: 0px 1.07934px 1.07934px rgba(77, 77, 77, 0.67);
+    margin-left: 15px;
+    border-radius: 5px;
+}
+
+.document{
+    position: absolute;
+    width: 130.23px;
+    height: 20.26px;
+    left: 825px;
+    top: 23px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.download{
+    position: absolute;
+    color: #3672E9;
+    left: 825px;
+    top: 45px;
+}
+
+.dd{
+    width: 131px;
+}
+
+.dicon{
+    Width: 40px;
+    Height: 40px;
+    background: white;
+    border-radius: 6px;
+    margin-left: 190px;
+    margin-top: 25px;
+}
+
+.icondis{
+    Width: 35px;
+    Height: 35px;
+    padding: 12.5px;
+}
